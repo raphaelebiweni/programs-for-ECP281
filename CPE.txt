@@ -1,0 +1,13 @@
+﻿NAME: OKI RAPHAEL
+MAT. NO.: ENG1805323
+DEPARTMENT: COMPUTER ENGINEERING
+COURSE: ECP281
+
+A COMPARISON BETWEEN THE BRAIN OF A 9 YEAR OLD AND A COMPUTER IN TERMS OF SPEED AND POWER
+  A computer is a device with the power to store, process, and give out information that was input into it. This is something the human brain can do as well, and so it isn’t strange when a computer’s processor can be likened to a brain. However, the question of which was better:  between the brain of a 9year old and a computer, was brought up. The following opinions were brought to light;
+  In terms of power, the 9year old brain is better. It may be young, but it has the ability to constantly evolve through experiences. The computer however, though it can be upgraded, has an upper limit to how much it can get better, based on its specs.
+  In terms of power, it was also stated that while a human can do a vast amount of activities due to its will, the computer can only do what it was programmed to do which limits the scope of what it can do. It was asked which was better; one who learns and does things on their own, or one who is always told what to do.
+  Another point that was given in which it was said; if a computer learns from humans, doesn’t that make humans more powerful? That statement was made to prove that the human brain is more powerful than the computer.
+  In terms of speed, it was said that the computer is better than the human brain due to specialization. This means that a computer that was specifically made to solve complex math problems could do so faster than the human brain.
+  However, another said that the human brain is faster because of the wider range of information it can process at a time. It was said that asking a computer what to do in some real life situations might not yield results as good as a human answer would.
+  Drawing my own conclusion, I believe that the human brain is more powerful than the computer. The reason being that: the human brain can store far more data in the form of memories, has no upper limit when it comes to learning from mistakes and evolving. However, I believe that the computer is faster than the human brain. The reason being it can carry out commands and instructions quicker  than the human brain can handle and process due to it being programmed to carry out processing quicker than humans can.
